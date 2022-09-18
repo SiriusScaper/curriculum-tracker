@@ -1,7 +1,7 @@
 {
-  "name": "binary-upload-boom",
+  "name": "curriculum-tracker",
   "version": "1.0.0",
-  "description": "100Devs Social Network",
+  "description": "An app to help with tracking assignments and completion rate.",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
